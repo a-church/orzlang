@@ -1,0 +1,1 @@
+clang++ -g -o build/orzi src/main.cpp
