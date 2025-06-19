@@ -1,1 +1,1 @@
-clang++ -g -o build/orzi src/main.cpp
+clang++ -g -o build/orzi src/main.cpp src/lexer.cpp

@@ -1,0 +1,16 @@
+- booleans
+    - orz -> true
+    - norz -> false
+    - sorz -> maybe
+- assert
+    - admits/agmits -> assert (boolean statement)
+    - if orz -> continue
+    - if norz -> crash
+        - crash message: "rbo lock in, (failed boolean statement)"
+- multithreading
+    - reap -> spawn threads
+
+- keyword ideas
+    - xoop/xook
+    - originator
+    - qual
